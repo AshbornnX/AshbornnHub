@@ -1,5 +1,5 @@
 local success, err = pcall(function()
-    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/8fb81623c9581e69"))()
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/9a6bce1832d24fc0"))()
 end)
 
 if not success then
